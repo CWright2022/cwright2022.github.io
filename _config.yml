@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: Cayden Wright
-description: Cayden's personal website and blog
+description: Cybersecurity and other adventures
+url: cwright2022.github.io
+baseurl: /cwright2022
