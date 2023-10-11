@@ -9,10 +9,10 @@ date: 2023-02-08 22:44 -0400
 Recently for Christmas, I got one of these [little thermal printers](https://www.adafruit.com/product/597).  
 
 Probably a weird thing to ask for, but I'm sure it's not the weirdest thing that I've ever asked for. 
-![a picture of the thermal printer I got.](/assets/img/printer.jpg)  
+![a picture of the thermal printer I got.](/assets/img/thermal_printer/printer.jpg)  
 
 My initial idea was to make a "planner" of sorts, where the device prints out your schedule, the weather, and more every morning. While that project is also in the works, I decided to take a little detour to make a little gag project for me and my friends. 
-![A photo of my janky device sitting in my dorm, awaiting a message](/assets/img/thermal_printer.jpg){:width="50%"}  
+![A photo of my janky device sitting in my dorm, awaiting a message](/assets/img/thermal_printer/thermal_printer.jpg){:width="50%"}  
 My first adventure was to learn a little bit of web development. While I can certainly churn out a simple HTML document relatively easily, the backend is something I'm certainly unexperienced in. But since taking Software Dev 1 last semester, I know one thing pretty well, and that's Python. I had the printer already working with a basic [Python library from Adafruit](https://github.com/adafruit/Adafruit-Thermal-Printer-Library), so why not keep on the Python train? Enter [Flask](https://flask.palletsprojects.com/en/3.0.x/).  
 
 I had only barely heard of flask before taking on this project - some guy from Computer Science House mentioned it to me when I was a member (for a whole week). I never really thought I would be using it much, that is, until I needed a web app written in Python. To those wondering, "Why would you write a web app in Python?", I present the following points.  
@@ -22,7 +22,7 @@ I had only barely heard of flask before taking on this project - some guy from C
     - It will probably be cannibalized in a month or two to re-use the Pi for another project
 3. Anything is better than PHP.  
 
-![A few messages I got](/assets/img/thermal_messages.jpg){:width="50%"}  
+![A few messages I got](/assets/img/thermal_printer/thermal_messages.jpg){:width="50%"}  
 
 So now on to implementation. How did I do it? What's the secret sauce? Well lucky for you, [it's open source](https://github.com/CWright2022/iot_thermal_printer). Documentation exists in the GitHub repo as well, although I cannot guarantee full accuracy. A little "Google-fu" and knowledge of Python/Flask may be needed to run this for yourself.  
 
