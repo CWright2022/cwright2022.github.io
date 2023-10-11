@@ -3,7 +3,7 @@ layout: post
 title: Fighting Facebook Scammers
 date: 2023-03-05 22:44 -0400
 ---
-# I hate Facebook.  
+# **I hate Facebook.**   
 Not so much the platform itself (although privacy is a serious concern), but mainly for the users it contains. Maybe it's cause I'm young, but seeing "REPOST IF YOU HAVE AMAZING GRANDKIDS" or "COPY AND PASTE THIS TO RESET THE MAGIC FACEBOOK ALGORITHM" hundreds of times per day just irks me for some reason.That being said, I love all the old grandmas and clueless moms in my rural hometown to death, and would be quite angry if someone tried to say, cheat them out of their Facebook credentials.  
 
 Our story begins two years ago, when my mom received a DM asking if she was in a certain video, with a suspicious link. The link led to what appeared to be a Facebook login prompt, where she promptly presented her credentials. Soon after, she found that dozens of similar DMs were sent, asking others to click the link. We quickly reset her Facebook password and apologized to the users who were messaged. No harm, no foul.  
@@ -14,7 +14,9 @@ Fast forward to these last few weeks. I am getting notification after notificati
 
 This upset me greatly - to play to the emotions of people who have lost loved ones in crashes is, to me, morally wrong and evil.  
 
-So what do you do when you're pursuing a cybersecurity degree and you see evil online? You take down those no-good scammers!  
+So what do you do when you're pursuing a cybersecurity degree and you see evil online? You take down those no-good scammers! 
+
+## **Becoming an Imposter**  
 
 First, some reconnaissance. Let's open this link on my computer (in a VM of course, for security) so I can see it on the big screen!  
 
@@ -34,6 +36,8 @@ Here's the difference side-by-side, with and without the user-agent spoofer.
 
 ![comparison](/assets/img/fb_scams/contrast.png)
 
+## **Reporting**  
+
 With that out of the way, it's time to act. First, we need to find out who owns these websites. This is accomplished via a DNS WHOIS lookup. Every domain name, like [caydenwright.com](https://caydenwright.com), belongs to somebody. In my case, I purchased my domain from [Google Domains](https://domains.google.com). If you would perform a WHOIS on my website, you would see that it is owned by Google. This lookup can show you who to contact if you want to buy the domain, or in this case, tell the registrar that someone is abusing a domain. It is worth noting that many registrars do not publish their customer's real email, but rather publish a "proxy email" that goes to the registrant, but without exposing their true email.  
 
 You can use [this](https://lookup.icann.org/en) website to perform a WHOIS on all your favorite sites!  
@@ -48,7 +52,7 @@ I've sent 5 emails today to several different hosting providers and registrars t
 
 Hopefully they can respond quickly to protect innocent users.  
 
-## Have you fallen for such a phishing link?  
+## **Have you fallen for such a phishing link?**  
 Don't be so hard on yourself - it happens to even the best. Here are some steps you should take to secure your digital life:
 1. Change your password.
     - IMMEDIATELY change your password to something secure, and hard to guess.
@@ -59,10 +63,10 @@ Don't be so hard on yourself - it happens to even the best. Here are some steps 
 3. Take a closer look before you click.
     - Before you click, look at the link. Does it look like a website you've seen before? 
     - Before you type your password, is this a legit Facebook site? When in doubt, X it out.
-<br><br>
+<br><br>  
 
 Now, why would someone want grandma's Facebook credentials? So what, they can make funny posts as grandma? While this is true, because the link is spread as accounts are compromised, there is more likely than not a more sinister purpose afoot. While I cannot confirm these theories, I have two ideas as to why these criminals are phishing for Facebook credentials.
-1. $$$
+1. \$$$
     - These criminals could be simply selling these credentials on the dark web for someone else to buy and use for their own purposes. 
     - Those other purposes could be any one of the following, or something entirely different.
 2. Password re-use attack
@@ -71,6 +75,8 @@ Now, why would someone want grandma's Facebook credentials? So what, they can ma
 3. Misinformation
     - An attacker with enough compromised Facebook accounts essentially has an army of voices to spread whatever lies they deem fit.
     - Imagine if all your friends started telling you to try a new product, or vote for a certain candidate, or visit a certain place - it would be pretty convincing, right?
-    - With enough accounts, an attacker can make anything appear to be the truthAnd that is my short and sweet tale of how I'm fighting a few phishing attempts. 
+    - With enough accounts, an attacker can make anything appear to be the truth.  
+
+And that is my short and sweet tale of how I'm fighting a few phishing attempts.  
     
 Inevitably, more will pop up, and my work will be overshadowed, but for now I feel pretty good about myself. Stay safe out there!
