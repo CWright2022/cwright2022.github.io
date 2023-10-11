@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bee-Cryptor Web
+title: Bee-Cryptor
 date: 2022-10-22 22:44 -0400
 ---
 # Bee-Cryptor
