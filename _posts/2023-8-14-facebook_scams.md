@@ -4,7 +4,7 @@ title: Fighting Facebook Scammers
 date: 2023-03-05 22:44 -0400
 ---
 # **I hate Facebook.**   
-Not so much the platform itself (although privacy is a serious concern), but mainly for the users it contains. Maybe it's cause I'm young, but seeing "REPOST IF YOU HAVE AMAZING GRANDKIDS" or "COPY AND PASTE THIS TO RESET THE MAGIC FACEBOOK ALGORITHM" hundreds of times per day just irks me for some reason.That being said, I love all the old grandmas and clueless moms in my rural hometown to death, and would be quite angry if someone tried to say, cheat them out of their Facebook credentials.  
+Not so much the platform itself (although privacy is a serious concern), but mainly for the users it contains. Maybe it's cause I'm young, but seeing "REPOST IF YOU HAVE AMAZING GRANDKIDS" or "COPY AND PASTE THIS TO RESET THE MAGIC FACEBOOK ALGORITHM" hundreds of times per day just irks me for some reason. That being said, I love all the old grandmas and clueless moms in my rural hometown to death, and would be quite angry if someone tried to say, cheat them out of their Facebook credentials.  
 
 Our story begins two years ago, when my mom received a DM asking if she was in a certain video, with a suspicious link. The link led to what appeared to be a Facebook login prompt, where she promptly presented her credentials. Soon after, she found that dozens of similar DMs were sent, asking others to click the link. We quickly reset her Facebook password and apologized to the users who were messaged. No harm, no foul.  
 
