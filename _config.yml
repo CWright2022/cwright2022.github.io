@@ -20,10 +20,10 @@ timezone: America/New_York
 
 title: Cayden Wright # the main title
 
-tagline: Security, etc. # it will display as the sub-title
+tagline: Make. Break. Repeat. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  My personal little corner of the web.
+  Cayden Wright - Make. Break. Repeat
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://cwright2022.github.io"
