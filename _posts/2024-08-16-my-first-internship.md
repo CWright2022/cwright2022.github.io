@@ -1,0 +1,29 @@
+---
+layout: post
+title: Intern Insights - My First Internship!
+date: 2024-08-16 09:00 -0400
+published: false
+---
+While I’ve had a few jobs in the past ranging from IT grunt to camp counselor to AV technician, none have quite complimented my ongoing pursuit of a cybersecurity degree. I knew that [RIT](https://rit.edu) requires two co-ops to graduate, but it seemed surreal that I would be searching for a “big boy” job in the real world! I started scouring LinkedIn, attending on campus career fairs, and sending in applications. It seemed like I had sent hundreds of applications, and gotten a lot of very personable and heartfelt “thank you for your interest…” emails. My impostor syndrome was in full effect, doubting my scholarly and extracurricular activities until my phone rang in mid-November. I answered the call, not knowing my future employer was on the other line. After the call, I had to take a few minutes to take it all in - I was so happy to have an offer from the Advisory Blue team at the highly regarded [Security Risk Advisors](https://sra.io)! I accepted my offer and confirmed my housing plans for Rochester in the summer.  Fresh out of my second year of college, I was going to work in the real world.  
+
+![SRA's Logo](/assets/img/first_internship/sra.png){:width="100%"}  
+
+From the first interaction with SRA, I already felt valued - I was being flown into their Philadelphia headquarters for training, all expenses paid! While I’m sure this is common amongst nearly all businesses, to a first time intern it was pretty neat. I met my team, who were always friendly and helpful when I had questions. As I looked over Philly from the view of my hotel room, I knew I had landed a nice internship.  
+
+My work wasn’t quite the type of “hacker” tasks the general public would expect from a cybersecurity internship.  Instead of breaking into banks, cracking passwords, and picking locks, I was writing policies, implementing controls, and performing PCI compliance work. While mundane at times, it’s important not to overlook these often-neglected building blocks of cybersecurity. Policies provide a baseline for HIPAA, PCI, and SWIFT audits, which are big deals if you work with money or healthcare data. On the more technical side, implementing defense technologies such as Microsoft Purview or Entra Access Reviews within client Azure environments captured my interest quite well - I even had the opportunity to be involved on the “front lines” of implementing these technologies and pitching them to SRA management to ultimately be offered to new and existing clients. Working with the PCI compliance team taught me to check every single avenue of attack for compliance and security - not just the front door, but the back door, the garage door, the windows, and the doggy door. There are so many different controls and requirements even for a small business that it really takes a thorough look to determine compliance.   
+
+![Relevant XKCD](/assets/img/first_internship/xkcd_security.png){:width="100%"}  
+
+Aside from the usual Blue Team responsibilities, I was also staffed on two “Purple Team” projects, where both “red” (offensive) and “blue” (defensive) teams work together to detect weaknesses in a client’s environment live on air, and capture all this data using our in-house tool, VECTR. These exercises reminded me just how many ways adversaries can steal data and cause service outages. They also taught me just how important a good report can be - it will make or break your entire project. In the words of one of the full-time consultants, “PowerPoint is the consultant’s canvas.”  
+
+While I certainly found value in my Advisory Blue work, I couldn’t help but miss the terminal-typing, Metasploit-running, Burp Suite-proxying environment I’ve gotten so accustomed to in my classwork and extracurriculars at RIT. After talking to some of the leadership on the Advisory Red side of SRA, I’m proud to say that I will be rejoining SRA next summer on the Advisory Red team! I am so thankful that SRA was willing to be flexible and grant me this incredible opportunity. I’ll be completing some self-study work between now and May to get myself up to speed.  
+
+Between great culture, great co-workers, amazing in-office snacks, and even the occasional (ok, more like daily) pool or Super Smash Bros match, there wasn’t much to dislike about SRA and my internship this summer. While being away from my hometown and my friends wasn’t easy, I wouldn’t have traded this internship for the world. I’m extremely proud to have SRA on my resume, and overjoyed to be returning for another summer!  
+
+Aside from working, I really enjoyed having a lack of homework, and some nice weather (a luxury here in Rochester). I took full advantage of all that the area has to offer, including fishing in the Erie Canal, Genesee River, and many nearby streams. I biked north, south, east and west on all the different “rails-to-trails” that crisscross the state, camped out at Letchworth State Park, and even got roped into seeing Jason Aldean at Darien Lake. And of course, a summer for me wouldn’t be complete without going back to being a camp counselor at [Camp Mantowagan](https://campmantowagan.com), even if it was just for one week. I believe that God works strongly through camp, and every year I make it a priority to be a part of His plan.  
+
+![A photo of Letchworth State Park](/assets/img/first_internship/letchworth.jpg){:width="100%"}
+
+Overall, this summer was a very welcome glimpse into the real world of cybersecurity consulting - I gained a ton of new experience and wisdom, and I’m ready to apply it soon when school is back in session. Having a 9-5 also let me explore a variety of activities outside of the office.  
+
+RIT, I’ll see you soon - SRA, I’ll be right back - gotta put in my 18 credits.  
