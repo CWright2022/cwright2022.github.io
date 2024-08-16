@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Intern Insights - My First Internship!
-date: 2024-08-16 09:00 -0400
-published: false
+date: 2024-08-15 21:00 -0400
 ---
 While I’ve had a few jobs in the past ranging from IT grunt to camp counselor to AV technician, none have quite complimented my ongoing pursuit of a cybersecurity degree. I knew that [RIT](https://rit.edu) requires two co-ops to graduate, but it seemed surreal that I would be searching for a “big boy” job in the real world! I started scouring LinkedIn, attending on campus career fairs, and sending in applications. It seemed like I had sent hundreds of applications, and gotten a lot of very personable and heartfelt “thank you for your interest…” emails. My impostor syndrome was in full effect, doubting my scholarly and extracurricular activities until my phone rang in mid-November. I answered the call, not knowing my future employer was on the other line. After the call, I had to take a few minutes to take it all in - I was so happy to have an offer from the Advisory Blue team at the highly regarded [Security Risk Advisors](https://sra.io)! I accepted my offer and confirmed my housing plans for Rochester in the summer.  Fresh out of my second year of college, I was going to work in the real world.  
 
