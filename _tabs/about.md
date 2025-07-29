@@ -15,6 +15,6 @@ I'm now set on a Master's Degree in Cybersecurity from the Rochester Institute o
 
 Don't worry, I'm not always a computer nerd - I enjoy volleyball, music (I play drums and bass), and the outdoors outside of learning and work.
 
-I'm currently seeking a full-time cybersecurity role, starting in January 2027! If you're looking to hire a highly motivated, experienced cybersecurity consultant, I'm your guy!
+I'm currently seeking a full-time cybersecurity role, starting in December 2026! If you're looking to hire a highly motivated, experienced cybersecurity consultant, I'm your guy!
 
 In the bottom left of this site, you'll find links to my GitHub, LinkedIn, and email! Feel free to contact me!
