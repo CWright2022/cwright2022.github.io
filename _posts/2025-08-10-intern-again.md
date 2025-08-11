@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Intern Again, But This Time I Broke In - My Debut in Offensive Security
-date: 2025-08-10 21:00 -0400
+date: 2025-08-10 20:00 -0400
 ---
 As summer fades to fall yet again, I thought it might be nice to reflect on my second internship with [Security Risk Advisors](https://sra.io). Last summer, I was working with the Advisory Blue department, writing policies and assessing compliance. This summer, however, I had the opportunity to work with the Advisory Red team, performing offensive security work such as penetration testing, footprinting, and social engineering. Here’s how it went, what I learned, and why I’m excited to come back for round three next summer.
 
