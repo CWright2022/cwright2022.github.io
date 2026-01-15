@@ -3,7 +3,7 @@ layout: post
 title: Intern Again, But This Time I Broke In - My Debut in Offensive Security
 date: 2025-08-10 20:00 -0400
 ---
-As summer fades to fall yet again, I thought it might be nice to reflect on my second internship with [Security Risk Advisors](https://sra.io). Last summer, I was working with the Advisory Blue department, writing policies and assessing compliance. This summer, however, I had the opportunity to work with the Advisory Red team, performing offensive security work such as penetration testing, footprinting, and social engineering. Here’s how it went, what I learned, and why I’m excited to come back for round three next summer.
+As summer fades to fall yet again, I thought it might be nice to reflect on my second internship with [Security Risk Advisors](https://sra.io). Last summer, I was working with the Advisory Blue department, writing policies and assessing compliance. This summer, however, I had the opportunity to work with the Advisory Red team, performing offensive security work such as penetration testing, footprinting, and social engineering. Here’s how it went and what I learned.
 
 ![me irl](/assets/img/intern_again/me_hacker.png){:width="80%"}  
 
@@ -27,6 +27,6 @@ Just like last year, I enjoyed having a traditional job and schedule rather than
 
 ![Taughannock Falls](/assets/img/intern_again/t_falls.jpg){:width="100%"}  
 
-This summer was an awesome look into the world of offensive security consulting - something that I think I really like doing. As I alluded to earlier, I’m happy to announce I’ll be returning to SRA for one more summer to continue my offensive security journey. A huge shoutout to everyone at SRA for making this possible! For now, it’s back to RIT for the start of my fourth year!
+This summer was an awesome look into the world of offensive security consulting - something that I think I really like doing. A huge shoutout to everyone at SRA for making this possible! For now, it’s back to RIT for the start of my fourth year!
 
 *“Many are the plans in the mind of a man, but it is the purpose of the Lord that will stand.” Proverbs 19:21*
