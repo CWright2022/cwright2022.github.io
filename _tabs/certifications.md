@@ -23,4 +23,4 @@ I have a number of certifications and licenses, and not all of them fit on my re
 
 ## Chainalysis Cryptocurrency Fundamentals Certification (CCFC)  
 <img src="/assets/img/certs/ccfc_certificate_wright.png" alt="A photo of my Chainalysis Cryptocurrency Fundamentals Certification (CCFC)" width="65%"/><br>
-[**From Chainalysis:**](https://training.chainalysis-gov.com/pages/ccfc)This course is designed to provide a solid cryptocurrency foundation for individuals actively working in the cryptocurrency ecosystem, including regulators, financial institutions, crypto businesses, and other public sector individuals.  
+[**From Chainalysis:**](https://training.chainalysis-gov.com/pages/ccfc) This course is designed to provide a solid cryptocurrency foundation for individuals actively working in the cryptocurrency ecosystem, including regulators, financial institutions, crypto businesses, and other public sector individuals.  
