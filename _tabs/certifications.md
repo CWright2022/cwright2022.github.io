@@ -20,3 +20,7 @@ I have a number of certifications and licenses, and not all of them fit on my re
 ## Audinate Dante - Level 3 Certification  
 <img src="/assets/img/certs/Cayden_Wright_Dante_Certification.png" alt="A photo of my Dante Level 3 Certification" width="65%"/><br>
 [**From Audinate:**](https://www.getdante.com/resources/training/dante-certification-program/) Dante Certification Level 3 builds the necessary skills to navigate a Layer 3 enterprise network. This includes explanations of what Layer 3 means, why it is helpful and how Dante systems can naturally span a building, a campus, or even multiple properties. It also offers demonstrations of Dante Domain Manager connecting devices across Layer 3 boundaries. This class is especially helpful to those who want to build a large Dante network and those who wish to improve their ability to work with IT staff at large organizations.  
+
+## Chainalysis Cryptocurrency Fundamentals Certification (CCFC)  
+<img src="/assets/img/certs/ccfc_certificate_wright.png" alt="A photo of my Chainalysis Cryptocurrency Fundamentals Certification (CCFC)" width="65%"/><br>
+[**From Chainalysis:**](https://training.chainalysis-gov.com/pages/ccfc)This course is designed to provide a solid cryptocurrency foundation for individuals actively working in the cryptocurrency ecosystem, including regulators, financial institutions, crypto businesses, and other public sector individuals.  
